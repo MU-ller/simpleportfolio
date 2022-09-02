@@ -112,20 +112,20 @@
 
             <div class="grid lg:grid-cols-4 md:grid-cols-2">
                 <div class="mb-6">
-                    <h5 class="uppercase font-bold mb-2.5">Links</h5>
+                    <h5 class="uppercase font-bold mb-2.5">Projects</h5>
 
                     <ul class="list-none mb-0">
                         <li>
-                            <a href="#!" class="text-white">Link 1</a>
+                            <a href="#!" class="text-white">Simple portfolio in nuxtjs</a>
                         </li>
                         <li>
-                            <a href="#!" class="text-white">Link 2</a>
+                            <a href="#!" class="text-white">Ecomerce in Nuxtjs</a>
                         </li>
                         <li>
-                            <a href="#!" class="text-white">Link 3</a>
+                            <a href="#!" class="text-white">CMS in HTML CSS PHP</a>
                         </li>
                         <li>
-                            <a href="#!" class="text-white">Link 4</a>
+                            <a href="#!" class="text-white"></a>
                         </li>
                     </ul>
                 </div>
