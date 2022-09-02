@@ -7,11 +7,19 @@
                 </div>
                 <div class="md:7/12 lg:w-6/12">
                     <h2 class="text-2xl text-gray-900 font-bold md:text-4xl">About us</h2>
-                    <p class="mt-6 text-gray-600">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eum omnis
-                        voluptatem accusantium nemo perspiciatis delectus atque autem! Voluptatum tenetur beatae unde
-                        aperiam, repellat expedita consequatur! Officiis id consequatur atque doloremque!</p>
-                    <p class="mt-4 text-gray-600"> Nobis minus voluptatibus pariatur dignissimos libero quaerat iure
-                        expedita at? Asperiores nemo possimus nesciunt dicta veniam aspernatur quam mollitia.</p>
+                    <p class="mt-6 text-gray-600">A dynamic and highly motivated student with a good, demonstrated
+                        ability to learn quickly, adapt easily
+                        work methodically and accurately whilst striving for quality for every task. Eager to contribute
+                        to team
+                        success through hard work, attention to detail and excellent organizational skills. Motivated to
+                        learn,
+                        grow and excel in problem solving. Friendly student, effective communicator with people at all
+                        levels,
+                        available for weekend, evening, and holiday shifts.</p>
+                    <p class="mt-4 text-gray-600"> Considered hardworking, punctual and driven.
+                        Organized and dependable candidate successful at managing multiple priorities with a positive
+                        attitude.
+                        Willingness to Learn new things!.</p>
                 </div>
             </div>
         </div>
