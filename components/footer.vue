@@ -2,7 +2,7 @@
     <footer class="text-center bg-gray-900 text-white">
         <div class="container px-6 pt-6">
             <div class="flex justify-center mb-6">
-                <a href="#!" type="button"
+                <a href="https://www.facebook.com/muluneh.meri" type="button"
                     class="rounded-full border-2 border-white text-white leading-normal uppercase hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out w-9 h-9 m-1">
                     <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="facebook-f"
                         class="w-2 h-full mx-auto" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
@@ -12,7 +12,7 @@
                     </svg>
                 </a>
 
-                <a href="#!" type="button"
+                <a href="https://twitter.com/muller122129?t=CgrVzTXARhrzLENBK2Tq0g&s=09" type="button"
                     class="rounded-full border-2 border-white text-white leading-normal uppercase hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out w-9 h-9 m-1">
                     <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="twitter"
                         class="w-3 h-full mx-auto" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
@@ -22,7 +22,7 @@
                     </svg>
                 </a>
 
-                <a href="#!" type="button"
+                <a href="https://github.com/MU-ller" type="button"
                     class="rounded-full border-2 border-white text-white leading-normal uppercase hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out w-9 h-9 m-1">
                     <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="google"
                         class="w-3 h-full mx-auto" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 488 512">
@@ -42,7 +42,7 @@
                     </svg>
                 </a>
 
-                <a href="#!" type="button"
+                <a href="https://www.linkedin.com/in/muluneh-meri-078476234" type="button"
                     class="rounded-full border-2 border-white text-white leading-normal uppercase hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out w-9 h-9 m-1">
                     <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="linkedin-in"
                         class="w-3 h-full mx-auto" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
@@ -68,7 +68,7 @@
                     <div class="grid md:grid-cols-3 gird-cols-1 gap-4 flex justify-center items-center">
                         <div class="md:ml-auto md:mb-6">
                             <p class="">
-                                <strong>Sign up for our newsletter</strong>
+                                <strong>Sign up for my newsletter</strong>
                             </p>
                         </div>
 
@@ -129,7 +129,6 @@
                         </li>
                     </ul>
                 </div>
-
                 <div class="mb-6">
                     <h5 class="uppercase font-bold mb-2.5">Links</h5>
 
