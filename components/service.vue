@@ -42,15 +42,13 @@
                mb-8
                ">
                         <div class="
-                  w-[100px]
-                  h-[100px]
                   flex
                   items-center
                   justify-center
                   bg-primary
                   rounded-2xl
                   mb-8
-                  ">
+                  " min-width="500px" min-height="500px">
                             <h4 class="font-semibold text-xl text-dark mb-3">
                                 Front End Developer
                             </h4>
@@ -81,15 +79,13 @@
                mb-8
                ">
                         <div class="
-                  w-[70px]
-                  h-[70px]
+      
                   flex
                   items-center
                   justify-center
                   bg-primary
                   rounded-2xl
-                  mb-8
-                  ">
+                  mb-8" min-width="500px" min-height="500px">
                             <h4 class="font-semibold text-xl text-dark mb-3">
                                 Back End Developer
                             </h4>
@@ -125,15 +121,13 @@
                mb-8
                ">
                         <div class="
-                  w-[70px]
-                  h-[70px]
                   flex
                   items-center
                   justify-center
                   bg-primary
                   rounded-2xl
                   mb-8
-                  ">
+                  " min-width="500px" min-height="500px">
                             <h4 class="font-semibold text-xl text-dark mb-3">
                                 Mobile app developer
                             </h4>
@@ -174,15 +168,14 @@
                mb-8
                ">
                         <div class="
-                  w-[70px]
-                  h-[70px]
+              
                   flex
                   items-center
                   justify-center
                   bg-primary
                   rounded-2xl
                   mb-8
-                  ">
+                  " min-width="500px" min-height="500px">
                             <h4 class="font-semibold text-xl text-dark mb-3">
                                 Project advice
                             </h4>
@@ -223,15 +216,14 @@
                mb-8
                ">
                         <div class="
-                  w-[70px]
-                  h-[70px]
+ 
                   flex
                   items-center
                   justify-center
                   bg-primary
                   rounded-2xl
                   mb-8
-                  ">
+                  " min-width="500px" min-height="500px">
                             <h4 class="font-semibold text-xl text-dark mb-3">
                                 Full Stack developer
                             </h4>
@@ -246,6 +238,10 @@
                         <p class="text-body-color">
                             I enjoy working with discerning clients, people for whom
                             qualuty, service, integrity & aesthetics.
+
+                            Now I am a junior full stack and mobile application developer I am experienced in vuejs
+                            ,nuxtjs,tailwindcss and vueitify and hasura graphql0engin postgressql and docker nodjs and
+                            express.
                         </p>
                     </div>
                 </div>
@@ -261,15 +257,14 @@
                mb-8
                ">
                         <div class="
-                  w-[70px]
-                  h-[70px]
+      
                   flex
                   items-center
                   justify-center
                   bg-primary
                   rounded-2xl
                   mb-8
-                  ">
+                  " min-width="500px" min-height="500px">
                             <h4 class="font-semibold text-xl text-dark mb-3">
                                 Requirement Engineer
                             </h4>

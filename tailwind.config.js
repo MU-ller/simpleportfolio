@@ -47,7 +47,8 @@ module.exports = {
 			},
 		},
 	},
-	"vueCompilerOptions": {
-		"experimentalDisableTemplateSupport": true
-		}
+	 
+		// plugins: [
+		// 	require('tailwindcss-elevation')(['responsive']),
+		//   ]
 };
