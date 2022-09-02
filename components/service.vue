@@ -19,8 +19,12 @@
                             What I Offer
                         </h2>
                         <p class="text-base text-body-color">
-                            There are many variations of passages of Lorem Ipsum available
-                            but the majority have suffered alteration in some form.
+                            I am a soft ware engineering
+                            student at Bahir dar institutions of technology.
+
+                            I give a full stack wave application development in vuejs nuxtjs tailwinds hasura
+                            graphql-engin and postgressql!
+                            I also give mobile applications development in Flutter!
                         </p>
                     </div>
                 </div>
@@ -47,6 +51,9 @@
                   rounded-2xl
                   mb-8
                   ">
+                            <h4 class="font-semibold text-xl text-dark mb-3">
+                                Front End Developer
+                            </h4>
                             <svg width="32" height="32" viewBox="0 0 32 32" fill="none"
                                 xmlns="http://www.w3.org/2000/svg">
                                 <path
@@ -54,9 +61,7 @@
                                     fill="white" />
                             </svg>
                         </div>
-                        <h4 class="font-semibold text-xl text-dark mb-3">
-                            Front End Developer
-                        </h4>
+
                         <p class="text-body-color">
                             I enjoy working with discerning clients, people for whom
                             qualuty, service, integrity & aesthetics.
@@ -85,6 +90,10 @@
                   rounded-2xl
                   mb-8
                   ">
+                            <h4 class="font-semibold text-xl text-dark mb-3">
+                                Back End Developer
+                            </h4>
+
                             <svg width="39" height="22" viewBox="0 0 39 22" fill="none"
                                 xmlns="http://www.w3.org/2000/svg">
                                 <!-- <mask id="path-1-inside-1" fill="white"> -->
@@ -96,13 +105,10 @@
                                     fill="white" mask="url(#path-1-inside-1)" />
                             </svg>
                         </div>
-                        <h4 class="font-semibold text-xl text-dark mb-3">
-                            Back End Developer
-                        </h4>
                         <p class="text-body-color">
                             I enjoy working with discerning clients, people for whom
                             qualuty, service, integrity & aesthetics.
-                            I am Experienced in Hasura graphql,postgressql.
+                            I am experienced in Hasura graphql,postgressql.
                             phpmyadim,nodejs, express and Laravel .
                         </p>
                     </div>

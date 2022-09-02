@@ -6,7 +6,7 @@
                     <img src="~/assets/img/muller.jpg" alt="image" loading="lazy" width="" height="">
                 </div>
                 <div class="md:7/12 lg:w-6/12">
-                    <h2 class="text-2xl text-gray-900 font-bold md:text-4xl">About us</h2>
+                    <h2 class="text-2xl text-gray-900 font-bold md:text-4xl">About Me</h2>
                     <p class="mt-6 text-gray-600">A dynamic and highly motivated student with a good, demonstrated
                         ability to learn quickly, adapt easily
                         work methodically and accurately whilst striving for quality for every task. Eager to contribute
