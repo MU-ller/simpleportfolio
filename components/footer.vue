@@ -22,7 +22,7 @@
                     </svg>
                 </a>
 
-                <a href="https://github.com/MU-ller" type="button"
+                <a href="mailto:mulunehmeri69@gmail.com" type="button"
                     class="rounded-full border-2 border-white text-white leading-normal uppercase hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out w-9 h-9 m-1">
                     <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="google"
                         class="w-3 h-full mx-auto" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 488 512">
@@ -52,7 +52,7 @@
                     </svg>
                 </a>
 
-                <a href="#!" type="button"
+                <a href="https://github.com/MU-ller" type="button"
                     class="rounded-full border-2 border-white text-white leading-normal uppercase hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out w-9 h-9 m-1">
                     <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="github"
                         class="w-3 h-full mx-auto" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512">
@@ -91,7 +91,6 @@
                 focus:text-gray-700 focus:bg-white focus:border-blue-600 focus:outline-none
               " id="exampleFormControlInput1" placeholder="Email address" />
                         </div>
-
                         <div class="md:mr-auto mb-6">
                             <button type="submit"
                                 class="inline-block px-6 py-2 border-2 border-white text-white font-medium text-xs leading-tight uppercase rounded hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out">
@@ -116,16 +115,20 @@
 
                     <ul class="list-none mb-0">
                         <li>
-                            <a href="#!" class="text-white">Simple portfolio in nuxtjs</a>
+                            <a href="https://github.com/MU-ller/portfolioinnuxt" class="text-white">Simple portfolio in
+                                nuxtjs</a>
                         </li>
                         <li>
-                            <a href="#!" class="text-white">Ecomerce in Nuxtjs</a>
+                            <a href="https://github.com/MU-ller/simple_ecomerce_in_nuxtjs" class="text-white">Ecomerce
+                                in Nuxtjs</a>
                         </li>
                         <li>
-                            <a href="#!" class="text-white">CMS in HTML CSS PHP</a>
+                            <a href="https://github.com/MU-ller/E-come" class="text-white">Ecomerce
+                                in Laravel</a>
                         </li>
                         <li>
-                            <a href="#!" class="text-white"></a>
+                            <a href="https://github.com/MU-ller/amharic_word_breading" class="text-white">Amharic word
+                                breading</a>
                         </li>
                     </ul>
                 </div>
@@ -134,7 +137,7 @@
 
                     <ul class="list-none mb-0">
                         <li>
-                            <a href="#!" class="text-white">Link 1</a>
+                            <a href="https://github.com/MU-ller/vue_one" class="text-white">simple vue applications</a>
                         </li>
                         <li>
                             <a href="#!" class="text-white">Link 2</a>
@@ -190,7 +193,7 @@
 
         <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.2);">
             © 2021 Copyright:
-            <a class="text-white" href="https://tailwind-elements.com/">Tailwind Elements</a>
+            <a class="text-white" href="#">Muluneh Meri Yismie</a>
         </div>
     </footer>
 </template>
