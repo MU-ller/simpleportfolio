@@ -6,7 +6,7 @@
                 <div class="w-full px-4">
                     <div class="text-center mx-auto mb-12 lg:mb-20 max-w-[510px]">
                         <span class="font-semibold text-lg text-primary mb-2 block">
-                            Our Services
+                            My Services
                         </span>
                         <h2 class="
                   font-bold
@@ -16,7 +16,7 @@
                   text-dark
                   mb-4
                   ">
-                            What We Offer
+                            What I Offer
                         </h2>
                         <p class="text-base text-body-color">
                             There are many variations of passages of Lorem Ipsum available
@@ -55,10 +55,10 @@
                             </svg>
                         </div>
                         <h4 class="font-semibold text-xl text-dark mb-3">
-                            Refreshing Design
+                            Front End Developer
                         </h4>
                         <p class="text-body-color">
-                            We dejoy working with discerning clients, people for whom
+                            I enjoy working with discerning clients, people for whom
                             qualuty, service, integrity & aesthetics.
                         </p>
                     </div>
@@ -96,10 +96,10 @@
                             </svg>
                         </div>
                         <h4 class="font-semibold text-xl text-dark mb-3">
-                            Based on Tailwind CSS
+                            Back End Developer
                         </h4>
                         <p class="text-body-color">
-                            We dejoy working with discerning clients, people for whom
+                            I enjoy working with discerning clients, people for whom
                             qualuty, service, integrity & aesthetics.
                         </p>
                     </div>
@@ -142,10 +142,10 @@
                             </svg>
                         </div>
                         <h4 class="font-semibold text-xl text-dark mb-3">
-                            300+ Components
+                            Mobile app developer
                         </h4>
                         <p class="text-body-color">
-                            We dejoy working with discerning clients, people for whom
+                            I enjoy working with discerning clients, people for whom
                             qualuty, service, integrity & aesthetics.
                         </p>
                     </div>
@@ -188,10 +188,10 @@
                             </svg>
                         </div>
                         <h4 class="font-semibold text-xl text-dark mb-3">
-                            Speed Optimized
+                            Project advice
                         </h4>
                         <p class="text-body-color">
-                            We dejoy working with discerning clients, people for whom
+                            I enjoy working with discerning clients, people for whom
                             qualuty, service, integrity & aesthetics.
                         </p>
                     </div>
@@ -225,10 +225,10 @@
                             </svg>
                         </div>
                         <h4 class="font-semibold text-xl text-dark mb-3">
-                            Fully Customizable
+                            Full Stack
                         </h4>
                         <p class="text-body-color">
-                            We dejoy working with discerning clients, people for whom
+                            I enjoy working with discerning clients, people for whom
                             qualuty, service, integrity & aesthetics.
                         </p>
                     </div>
@@ -265,10 +265,10 @@
                             </svg>
                         </div>
                         <h4 class="font-semibold text-xl text-dark mb-3">
-                            Regular Updates
+                            Requirement Engineer
                         </h4>
                         <p class="text-body-color">
-                            We dejoy working with discerning clients, people for whom
+                            I enjoy working with discerning clients, people for whom
                             qualuty, service, integrity & aesthetics.
                         </p>
                     </div>
