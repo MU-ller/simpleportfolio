@@ -35,7 +35,8 @@
                                  </svg>
                                  <div class="ml-4 text-md tracking-wide font-semibold w-40">
                                      Bahir dar-Ethiopia
-                                     Postal Code
+                                     Bahir dar Insstitue of technology
+                                     BiT-BDU
                                  </div>
                              </div>
  
