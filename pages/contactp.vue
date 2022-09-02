@@ -1,4 +1,5 @@
 ﻿ <template>
+     <Header />
      <div class="text-center mx-auto mb-12 lg:mb-20 max-w-[510px]">
          <h2 class="font-bold   text-3xl  sm:text-4xl  md:text-[40px]  text-dark  mb-4">
              Contact Me</h2>

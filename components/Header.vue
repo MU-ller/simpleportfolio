@@ -18,34 +18,39 @@
 				<div class="lg:flex flex-grow items-center" id="example-navbar-warning">
 					<ul class="flex flex-col lg:flex-row list-none ml-auto">
 						<li class="nav-item">
-							<a class="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
-								href="#pablo">
+							<NuxtLink
+								class="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
+								to="/">
 								Home
-							</a>
+							</NuxtLink>
 						</li>
 						<li class="nav-item">
-							<a class="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
-								href="#pablo">
+							<NuxtLink
+								class="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
+								to="/aboutp">
 								About
-							</a>
+							</NuxtLink>
 						</li>
 						<li class="nav-item">
-							<a class="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
-								href="#pablo">
+							<NuxtLink
+								class="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
+								to="/servicep">
 								Service
-							</a>
+							</NuxtLink>
 						</li>
 						<li class="nav-item">
-							<a class="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
-								href="#pablo">
+							<NuxtLink
+								class="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
+								to="#pablo">
 								Projects
-							</a>
+							</NuxtLink>
 						</li>
 						<li class="nav-item">
-							<a class="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
-								href="#pablo">
+							<NuxtLink
+								class="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
+								to="/contactp">
 								Contact
-							</a>
+							</NuxtLink>
 						</li>
 					</ul>
 				</div>
