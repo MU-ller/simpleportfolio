@@ -60,6 +60,7 @@
                         <p class="text-body-color">
                             I enjoy working with discerning clients, people for whom
                             qualuty, service, integrity & aesthetics.
+                            I am experianced in Vuejs,Nuxtjs,TaillwindCss,Vuetify,
                         </p>
                     </div>
                 </div>
@@ -101,6 +102,8 @@
                         <p class="text-body-color">
                             I enjoy working with discerning clients, people for whom
                             qualuty, service, integrity & aesthetics.
+                            I am Experienced in Hasura graphql,postgressql.
+                            phpmyadim,nodejs, express and Laravel .
                         </p>
                     </div>
                 </div>
@@ -147,6 +150,8 @@
                         <p class="text-body-color">
                             I enjoy working with discerning clients, people for whom
                             qualuty, service, integrity & aesthetics.
+
+                            I am experienced in Flutter!
                         </p>
                     </div>
                 </div>
@@ -193,6 +198,8 @@
                         <p class="text-body-color">
                             I enjoy working with discerning clients, people for whom
                             qualuty, service, integrity & aesthetics.
+
+                            I am experienced in project managment!
                         </p>
                     </div>
                 </div>
@@ -225,7 +232,7 @@
                             </svg>
                         </div>
                         <h4 class="font-semibold text-xl text-dark mb-3">
-                            Full Stack
+                            Full Stack developer
                         </h4>
                         <p class="text-body-color">
                             I enjoy working with discerning clients, people for whom
@@ -270,6 +277,9 @@
                         <p class="text-body-color">
                             I enjoy working with discerning clients, people for whom
                             qualuty, service, integrity & aesthetics.
+
+                            I am experiened in requirment gathering,requirment analysis,
+                            requirment design,design implmentation test and verifications.
                         </p>
                     </div>
                 </div>
