@@ -12,7 +12,7 @@
                   font-bold
                   text-3xl
                   sm:text-4xl
-                  md:text-[40px]
+                  
                   text-dark
                   mb-4
                   ">
@@ -22,9 +22,8 @@
                             I am a soft ware engineering
                             student at Bahir dar institutions of technology.
 
-                            I give a full stack wave application development in vuejs nuxtjs tailwinds hasura
-                            graphql-engin and postgressql!
-                            I also give mobile applications development in Flutter!
+                        <p class="text-base text-body-color">l give mobile applications development in Flutter!</p>
+
                         </p>
                     </div>
                 </div>
