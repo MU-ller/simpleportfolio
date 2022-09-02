@@ -22,7 +22,8 @@
                             I am a soft ware engineering
                             student at Bahir dar institutions of technology.
 
-                        <p class="text-base text-body-color">l give mobile applications development in Flutter!</p>
+                        <p class="text-base text-body-color">l give Full Stack and mobile applications development in
+                            Flutter!</p>
 
                         </p>
                     </div>
