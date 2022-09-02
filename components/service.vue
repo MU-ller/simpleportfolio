@@ -134,6 +134,9 @@
                   rounded-2xl
                   mb-8
                   ">
+                            <h4 class="font-semibold text-xl text-dark mb-3">
+                                Mobile app developer
+                            </h4>
                             <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
                                 xmlns="http://www.w3.org/2000/svg">
                                 <path
@@ -150,9 +153,7 @@
                                     fill="white" />
                             </svg>
                         </div>
-                        <h4 class="font-semibold text-xl text-dark mb-3">
-                            Mobile app developer
-                        </h4>
+
                         <p class="text-body-color">
                             I enjoy working with discerning clients, people for whom
                             qualuty, service, integrity & aesthetics.
@@ -182,6 +183,9 @@
                   rounded-2xl
                   mb-8
                   ">
+                            <h4 class="font-semibold text-xl text-dark mb-3">
+                                Project advice
+                            </h4>
                             <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
                                 xmlns="http://www.w3.org/2000/svg">
                                 <path
@@ -198,9 +202,7 @@
                                     fill="white" />
                             </svg>
                         </div>
-                        <h4 class="font-semibold text-xl text-dark mb-3">
-                            Project advice
-                        </h4>
+
                         <p class="text-body-color">
                             I enjoy working with discerning clients, people for whom
                             qualuty, service, integrity & aesthetics.
@@ -230,6 +232,9 @@
                   rounded-2xl
                   mb-8
                   ">
+                            <h4 class="font-semibold text-xl text-dark mb-3">
+                                Full Stack developer
+                            </h4>
                             <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
                                 xmlns="http://www.w3.org/2000/svg">
                                 <path
@@ -237,9 +242,7 @@
                                     fill="white" />
                             </svg>
                         </div>
-                        <h4 class="font-semibold text-xl text-dark mb-3">
-                            Full Stack developer
-                        </h4>
+
                         <p class="text-body-color">
                             I enjoy working with discerning clients, people for whom
                             qualuty, service, integrity & aesthetics.
@@ -267,6 +270,9 @@
                   rounded-2xl
                   mb-8
                   ">
+                            <h4 class="font-semibold text-xl text-dark mb-3">
+                                Requirement Engineer
+                            </h4>
                             <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
                                 xmlns="http://www.w3.org/2000/svg">
                                 <path
@@ -277,9 +283,7 @@
                                     fill="white" />
                             </svg>
                         </div>
-                        <h4 class="font-semibold text-xl text-dark mb-3">
-                            Requirement Engineer
-                        </h4>
+
                         <p class="text-body-color">
                             I enjoy working with discerning clients, people for whom
                             qualuty, service, integrity & aesthetics.
