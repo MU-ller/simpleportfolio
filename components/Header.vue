@@ -18,39 +18,39 @@
 				<div class="lg:flex flex-grow items-center" id="example-navbar-warning">
 					<ul class="flex flex-col lg:flex-row list-none ml-auto">
 						<li class="nav-item">
-							<NuxtLink
+							<nuxt-link
 								class="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
 								to="/">
 								Home
-							</NuxtLink>
+							</nuxt-link>
 						</li>
 						<li class="nav-item">
-							<NuxtLink
+							<nuxt-link
 								class="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
 								to="/aboutp">
 								About
-							</NuxtLink>
+							</nuxt-link>
 						</li>
 						<li class="nav-item">
-							<NuxtLink
+							<nuxt-link
 								class="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
 								to="/servicep">
 								Service
-							</NuxtLink>
+							</nuxt-link>
 						</li>
 						<li class="nav-item">
-							<NuxtLink
+							<nuxt-link
 								class="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
 								to="#pablo">
 								Projects
-							</NuxtLink>
+							</nuxt-link>
 						</li>
 						<li class="nav-item">
-							<NuxtLink
+							<nuxt-link
 								class="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
 								to="/contactp">
 								Contact
-							</NuxtLink>
+							</nuxt-link>
 						</li>
 					</ul>
 				</div>
